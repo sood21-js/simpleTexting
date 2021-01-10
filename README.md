@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and using the following libraries:
- ui - [Ant Design](https://ant.design/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and using the following libraries: \
+ ui - [Ant Design](https://ant.design/) \
  net - [Axios](https://www.npmjs.com/package/axios)
 
 ## Available Scripts
